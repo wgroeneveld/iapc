@@ -5,7 +5,7 @@ import (
 	"io"
 	"net"
 
-	"github.com/cedws/iapc/iap"
+	"github.com/wgroeneveld/iapc/iap"
 	"github.com/charmbracelet/log"
 )
 

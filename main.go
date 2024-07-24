@@ -1,6 +1,6 @@
 package main
 
-import "github.com/cedws/iapc/internal/cmd"
+import "github.com/wgroeneveld/iapc/internal/cmd"
 
 func main() {
 	cmd.Execute()

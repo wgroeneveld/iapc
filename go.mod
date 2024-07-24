@@ -1,4 +1,4 @@
-module github.com/cedws/iapc
+module github.com/wgroeneveld/iapc
 
 go 1.19
 

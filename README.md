@@ -51,7 +51,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/cedws/iapc/iap"
+	"github.com/wgroeneveld/iapc/iap"
 	"golang.org/x/oauth2/google"
 )
 

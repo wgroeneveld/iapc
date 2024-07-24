@@ -3,8 +3,8 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/cedws/iapc/iap"
-	"github.com/cedws/iapc/internal/proxy"
+	"github.com/wgroeneveld/iapc/iap"
+	"github.com/wgroeneveld/iapc/internal/proxy"
 	"github.com/charmbracelet/log"
 	"github.com/spf13/cobra"
 )
